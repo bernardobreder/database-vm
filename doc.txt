@@ -1,0 +1,7 @@
+# Máquina Virtual
+
+## Bytecode
+
+### stack.int
+    
+    Empilha um inteiro na pilha numética. Será necessário anexar 4 bytes de um inteiro no intervalo de [0, 4294967294].
